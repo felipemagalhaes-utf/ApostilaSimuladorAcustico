@@ -1,0 +1,14 @@
+# Obsidian internal state (DO NOT sync)
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/workspace*.json
+.obsidian/graph.json
+.obsidian/cache/
+
+# OS metadata
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Obsidian trash
+.trash/
